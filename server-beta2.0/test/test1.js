@@ -1,0 +1,1 @@
+console.log(process.argv.splice(process.execArgv.length + 2));

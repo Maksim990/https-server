@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "Это сервер, подключение через айпи роутера, мб-интернета",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Windows NT 5.1",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^1.1.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-wget": "^0.4.3"
+  }
+}
